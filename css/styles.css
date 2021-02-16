@@ -1,0 +1,65 @@
+#pageTitle {
+  text-align: center;
+  font-family: fantasy;
+  color: purple;
+}
+
+#descriptionText {
+  text-align: justify;
+  font-size: 17px;
+  font-family: "Noto Serif", Georgia, serif;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#callToAction {
+  text-align: center;
+  font-size: 17px;
+  font-family: "Noto Serif", Georgia, serif;
+  color: purple;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+#mapContainer {
+  width: 90%;
+  height: 500px;
+  margin: 0 auto;
+}
+
+#muralNameText {
+  font-size: 20px;
+  color: purple;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+#artistNameText {
+  font-size: 15px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  text-align: center;
+}
+
+#addressText {
+  font-size: 13px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  text-align: center;
+}
+
+#muralImageStyle {
+  width: 280px;
+  margin: 0 auto;
+}
+
+#muralUrlStyle {
+  font-size: 12px;
+  text-align: center;
+}

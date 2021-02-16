@@ -1,0 +1,172 @@
+[
+  {
+    "muralName": "Baird's Sparrow",
+    "artistName": "Ralph Serrano",
+    "long": -73.94452683087968,
+    "lat": 40.83523268979389,
+    "address": "3803 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/web_bairds-sparrow_hillary-eggers.jpg?itok=ghAXqWVE",
+    "birdBlurb": "This bird's staple prairie habitat is quickly disappearing. It stands to lose 100 percent of both its summer and winter ranges if global temperatures rise to 3 degrees Celsius.",
+    "muralUrl": "https://www.audubon.org/news/bairds-sparrow-ralph-serrano"
+  },
+  {
+    "muralName": "Anhinga",
+    "artistName": "Lexi Bella",
+    "long": -73.95178248669998,
+    "lat": 40.8240217698853,
+    "address": "3458 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/heggers_owlandanhinga_0.jpg?itok=BW-0lVw5",
+    "birdBlurb": "Known as the �snake bird,� the Anhinga has a habit of riding low in the water so that only its neck, head, and long bill are visible above the water line. Increasing spring heat waves could imperil the Anhinga�s young, and urbanization could compromise the bird�s ability to adapt by reducing newly available habitat to the north.",
+    "muralUrl": "https://www.audubon.org/news/anhinga-lexi-bella"
+  },
+  {
+    "muralName": "American Redstart",
+    "artistName": "James Alicea",
+    "long": -73.94835130204396,
+    "lat": 40.828939637580085,
+    "address": "3612 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/americanredstart_mikefernandez_0.jpg?itok=AuH7YXHs",
+    "birdBlurb": "This beautiful migratory warbler flits about the woods, snagging insects from mid-air while flashing the patches of color on its wings and tail. If the climate warms to 3 degrees Celsius, it will be pushed almost entirely out of its breeding territory in the continental United States.",
+    "muralUrl": "https://www.audubon.org/news/american-redstart-james-alicea"
+  },
+  {
+    "muralName": "Black-crowned Night-Heron",
+    "artistName": "Esteban Ocampo-Giraldo",
+    "long": -73.94603810204386,
+    "lat": 40.833363025394355,
+    "address": "3740 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/black_crowned_night_heron_mikefernandez_img_0690.jpg?itok=k7jxnJ2s",
+    "birdBlurb": "The relatively nocturnal Back-crowned Night-Heron can be heard barking wok in the dark. It will be vulnerable to increased wildfires incinerating habitat and spring heat waves that could threaten its young.",
+    "muralUrl": "https://www.audubon.org/news/black-crowned-night-heron-esteban-ocampo-giraldo"
+  },
+  {
+    "muralName": "Barn Owl",
+    "artistName": "Lexi Bella",
+    "long": -73.95187904622414,
+    "lat": 40.82402988862059,
+    "address": "3458 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/heggers_owlandanhinga-2.jpg?itok=2BtaGQtt",
+    "birdBlurb": "Voracious devourers of rodents, Barn Owls can be a welcome neighbor, which some people acknowledge by installing nest boxes. It will only expand their range as temperatures rise, but it will face other challenges from climate change, however, including increased wildfire and spring heat waves.",
+    "muralUrl": "https://www.audubon.org/news/barn-owl-lexi-bella"
+  },
+  {
+    "muralName": "Black-throated Blue Warbler",
+    "artistName": "minusbaby",
+    "long": -73.94854223126161,
+    "lat": 40.829753094372045,
+    "address": "3637 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/minus_baby_mikefernandez_2016_web.jpg?itok=qmttoQ6c",
+    "birdBlurb": "In the forests of northeastern North America, Black-throated Blue Warblers spend their summers sifting through the understory in search of insects. At 3 degrees of warming, practically all of their breeding habitat could become unlivable.",
+    "muralUrl": "https://www.audubon.org/news/black-throated-blue-warbler-minusbaby"
+  },
+  {
+    "muralName": "Black-capped Vireo",
+    "artistName": "George Boorujy",
+    "long": -73.94298670204367,
+    "lat": 40.83763581362254,
+    "address": "601 W. 162nd Street",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/hero_image/s3/boorujy_2_mikefernandez_0.jpg?itok=saL4LvfU",
+    "birdBlurb": "A small, cartoon-like bird, the Black-capped Vireo is limited to oak scrubland in South Texas, Oklahoma, and Mexico. While the species may expand its range to include a small portion of New Mexico, if warming continues apace, it will lose 87 percent of its existing summer habitat.",
+    "muralUrl": "https://www.audubon.org/news/black-capped-vireo-george-boorujy"
+  },
+  {
+    "muralName": "Blackburnian Warbler and Yellow-throated Warbler",
+    "artistName": "George Boorujy",
+    "long": -73.9446064020437,
+    "lat": 40.83392442384779,
+    "address": "560 W. 157th Street",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/hero_image/s3/blackburnianwarbler_yellow-throatedwarbler_mikefernandez_web.jpg?itok=L5YCKGaI",
+    "birdBlurb": "A fiery little warbler, the Blackburnian stands to lose 99 percent of its existing breeding range across the northern United States and Canada. The Yellow-throated Warbler, meanwhile, may lose 92 percent of its current breeding range as climate change alters its preferred pine- and sycamore-filled landscapes.",
+    "muralUrl": "https://www.audubon.org/news/blackburnian-warbler-and-yellow-throated-warbler-george-boorujy"
+  },
+  {
+    "muralName": "Calliope Hummingbird",
+    "artistName": "Kristy McCarthy",
+    "long": -73.9501614735897,
+    "lat": 40.82771380011446,
+    "address": "3569 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/img_0287.jpg?itok=13SL5yUG",
+    "birdBlurb": "The smallest bird in North America, measuring about 3 inches long and weighing about one-tenth of an ounce, the Calliope Hummingbird is able to survive cold summer nights at high elevations in the northern Rockies. Only a third of its current breeding range is expected to remain stable with 3 degrees Celsius of warming.",
+    "muralUrl": "https://www.audubon.org/news/calliope-hummingbird-kristy-mccarthy"
+  },
+  {
+    "muralName": "Evening Grosbeak and Black-headed Grosbeak",
+    "artistName": "Ouizi",
+    "long": -73.94522343087998,
+    "lat": 40.82796524889976,
+    "address": "1805 Amsterdam Ave",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/hero_image/s3/uozi.jpg?itok=bw65ZlEX",
+    "birdBlurb": "Evening Grosbeaks live in the north woods and eat seeds and buds, while Black-headed Grosbeaks are western and munch many insects as well. Audubon�s climate models predict that both will lose habitat as forests are damaged by rising temperatures.",
+    "muralUrl": "https://www.audubon.org/news/evening-grosbeak-and-black-headed-grosbeak-ouizi"
+  },
+  {
+    "muralName": "Hooded Warbler",
+    "artistName": "GERALUZ",
+    "long": -73.94780982161932,
+    "lat": 40.82711617128287,
+    "address": "522 W. 147th Street",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/hero_image/s3/gera_mfernandez1.jpg?itok=A1YBiP09",
+    "birdBlurb": "These bright wood warblers are often found in the leafy understory of eastern forests, where they flash their white outer tail feathers from time to time. But climate change may dry out moist habitats along the Gulf Coast where Hooded Warblers breed. It may lose 74 percent of its current overwintering range in Mexico.",
+    "muralUrl": "https://www.audubon.org/news/hooded-warbler-geraluz"
+  },
+  {
+    "muralName": "Endangered Harlem",
+    "artistName": "Gaia",
+    "long": -73.94352437358961,
+    "lat": 40.83060592787765,
+    "address": "1885 Amsterdam Ave",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/gaia_mikefernandez.jpg?itok=Dw-pRYgX",
+    "birdBlurb": "Passerines, more commonly known as songbirds, comprise the majority of the climate-threated species in Audubon�s �Survival By Degrees� report.",
+    "muralUrl": "https://www.audubon.org/news/endangered-harlem-gaia"
+  },
+  {
+    "muralName": "Red-faced Warbler",
+    "artistName": "ATM",
+    "long": -73.94300815971569,
+    "lat": 40.83763581362254,
+    "address": "601 W. 162 Street",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/atm_redfacedwarbler_hillaryeggers-2.jpg?itok=DKfxK9av",
+    "birdBlurb": "The stunning Red-faced Warblers thrive in cool mountain forests�islands of habitat surrounded by hot tropical lowlands. As the climate warms up, those forests will shrink, and the warblers could lose up to 80 percent of their current habitat.",
+    "muralUrl": "https://www.audubon.org/news/red-faced-warbler-atm"
+  },
+  {
+    "muralName": "Roseate Spoonbill",
+    "artistName": "Danielle Mastrion",
+    "long": -73.9509600290279,
+    "lat": 40.82631104482073,
+    "address": "3531 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/roseate_sponbilled_mikefernandez1_0.jpg?itok=VsgfcPOn",
+    "birdBlurb": "The popularity of feathers in fashion proved almost fatal for Roseate Spoonbills and other large wading birds, which were driven close to extinction by �plume hunters� in the 1890s. Their adaptability to rising temperatures won't protect them from other threats related to climate change, including increased spring heat waves and heavy rains, both of which can imperil chicks.",
+    "muralUrl": "https://www.audubon.org/news/roseate-spoonbill-danielle-mastrion"
+  },
+  {
+    "muralName": "Williamsons Sapsucker",
+    "artistName": "ATM",
+    "long": -73.94764017320762,
+    "lat": 40.836343751683614,
+    "address": "663 W. 158 Street",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/atm_williamsonssapsucker_hillaryeggers-15.jpg?itok=teTwx4eY",
+    "birdBlurb": "This striking creature digs tiny sap wells in trees in western mountain forests. But those forests thrive in a narrow climatic zone, and the Williamson's Sapsucker may lose three-quarters of its breeding habitat if warming continues.",
+    "muralUrl": "https://www.audubon.org/news/williamsons-sapsucker-atm"
+  },
+  {
+    "muralName": "Townsends Warbler",
+    "artistName": "ATM",
+    "long": -73.94299743087969,
+    "lat": 40.83764393069104,
+    "address": "3632 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/atm_townsendwarbler_hillaryeggers-1_web.jpg?itok=gLuE13i0",
+    "birdBlurb": "Dark, chilly conifer forests of the Pacific Northwest provide a summer haven for smartly patterned Townsend�s Warblers. In winter, these birds scatter down the coast and into cool mountain forests of Mexico.Warmer and drier conditions will change many of those forests, making them no longer suitable for the warblers.",
+    "muralUrl": "https://www.audubon.org/news/townsends-warbler-atm"
+  },
+  {
+    "muralName": "Pinyon Jay",
+    "artistName": "Mary Lacy",
+    "long": -73.946685702571,
+    "lat": 40.83060861254976,
+    "address": "3668 Broadway",
+    "muralImage": "https://nas-national-prod.s3.amazonaws.com/styles/article_hero_inline/s3/pinyonjay_hillaryeggers_3.jpg?itok=jjx3detP",
+    "birdBlurb": "Highly sociable birds, Pinyon Jays wander the West in flocks, dining on seeds of the pinyon pine. The pines produce their best seed crops only with ideal weather; as the climate becomes hotter and more unpredictable, the jays may have less food and raise fewer young, leading to population declines.",
+    "muralUrl": "https://www.audubon.org/news/pinyon-jay-mary-lacy"
+  }
+]
